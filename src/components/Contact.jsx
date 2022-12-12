@@ -2,12 +2,11 @@ import React from "react";
 
 const Contact = () => {
   const contact_info = [
-    { logo: "mail", text: "codeaprogram@gmail.com" },
-    { logo: "logo-whatsapp", text: "123 456 780" },
-    {
-      logo: "location",
-      text: "demo location",
-    },
+    { logo: "mail", text: "niazrahman132000.com" },
+    { logo: "logo-whatsapp", text: "+880 1789 609 159" },
+    { logo: "logo-github", text: "/niazrahman13" },
+    { logo: "logo-linkedin", text: "/in/niazrahman13" },
+
   ];
   return (
     <section id="contact" className="py-10 px-3 text-white">
